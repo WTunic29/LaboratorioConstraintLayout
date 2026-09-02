@@ -32,14 +32,14 @@ para la construcción de interfaces de usuario complejas.
 Se implementó un botón utilizando restricciones de posición,
 incluyendo margen superior y margen lateral.
 
-![Ejercicio 1](images/activity_exercise1.png)
+![Ejercicio 1](Evidencias_imagenes/activity_exercise1.png)
 
 ### Ejercicio 2
 
 Se implementaron las restricciones correspondientes al ejercicio
 planteado en la presentación.
 
-![Ejercicio 2](images/activity_exercise2.png)
+![Ejercicio 2](Evidencias_imagenes/activity_exercise2.png)
 
 ### Ejercicio 3
 
@@ -54,7 +54,7 @@ disponible mediante sus restricciones.
 Se implementaron dos botones utilizando restricciones horizontales,
 distribuidos en el espacio disponible de la pantalla.
 
-![Ejercicio 4](images/activity_exercise4.png)
+![Ejercicio 4](Evidencias_imagenes/activity_exercise4.png)
 
 ## Formulario de correo electrónico
 
@@ -66,7 +66,7 @@ permitir el ingreso de:
 - Mensaje (Message)
 - Botón Send
 
-![Formulario de correo](images/activity_email.png)
+![Formulario de correo](Evidencias_imagenes/activity_email.png)
 
 ## Entrega de actividad formativa
 
@@ -74,7 +74,7 @@ Se desarrolló un formulario para registrar los datos
 correspondientes a la entrega de una actividad formativa,
 utilizando ConstraintLayout.
 
-![Entrega de actividad](images/activity_entrega.png)
+![Entrega de actividad](Evidencias_imagenes/activity_entrega.png)
 
 ## Estructura del proyecto
 

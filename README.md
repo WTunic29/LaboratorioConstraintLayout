@@ -47,7 +47,7 @@ Se implementó un botón utilizando `0dp` en ancho y alto,
 permitiendo que ConstraintLayout utilice todo el espacio
 disponible mediante sus restricciones.
 
-![Ejercicio 3](images/activity_exercise3.png)
+![Ejercicio 3](Evidencias_imagenes/activity_exercise3.png)
 
 ### Ejercicio 4
 
